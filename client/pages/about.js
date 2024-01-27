@@ -1,9 +1,9 @@
 import React from "react";
 
 //INTERNAL IMPORT
-import { Header, Footer, Copyright } from "../PageComponents/Components";
+import { Header, Footer, Copyright,  } from "../PageComponents/Components";
 import {
-  Banner,
+  Texteditor,
   Action,
   Blog,
   Quote,
@@ -14,7 +14,7 @@ const about = () => {
   return (
     <div class="template-color-1 nft-body-connect">
       <Header />
-      <Banner />
+      <Texteditor />
       <Action />
       <Blog />
       <Quote />

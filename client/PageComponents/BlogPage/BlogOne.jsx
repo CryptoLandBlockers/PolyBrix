@@ -1,4 +1,5 @@
 import React from "react";
+import { Banner } from "../Components";
 
 const BlogOne = () => {
   return (
@@ -6,7 +7,7 @@ const BlogOne = () => {
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6 col-md-6 col-12">
-            <h5 class="title text-center text-md-start">Our Blog</h5>
+            {/* <h5 class="title text-center text-md-start">Our Blog</h5>
           </div>
           <div class="col-lg-6 col-md-6 col-12">
             <ul class="breadcrumb-list">
@@ -17,7 +18,8 @@ const BlogOne = () => {
                 <i class="feather-chevron-right"></i>
               </li>
               <li class="item current">Our Blog</li>
-            </ul>
+            </ul> */}
+            <Banner />
           </div>
         </div>
       </div>

@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 import axios from "axios";
 
 //INTERNAL IMPORT
-import { Loader } from "../Components";
+import { Loader, Texteditor } from "../Components";
 import { CreateThree } from ".";
 import { useStateContext } from "../../context";
 import { checkIfImage } from "../../utils";
@@ -302,14 +302,15 @@ const CreateTwo = () => {
                         Description
                       </label>
                       <div class="create-collection-input">
-                        <textarea
+                      <Texteditor initialText={"Description"} />
+                        {/* <textarea
                           id="description"
                           class="text-area"
                           placeholder="description"
                           onChange={(e) =>
                             handleFormFieldChange("description", e)
                           }
-                        ></textarea>
+                        ></textarea> */}
                       </div>
                     </div>
                   </div>
