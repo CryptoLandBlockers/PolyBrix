@@ -84,7 +84,7 @@ const EditProfileTwo = () => {
                 role="tabpanel"
                 aria-labelledby="nav-home-tab"
               >
-                <div class="nuron-information">
+                <div class="PolyBrix-information">
                   <div class="profile-change row g-5">
                     <div class="profile-left col-lg-4">
                       <div class="profile-image mb--30">
@@ -139,7 +139,7 @@ const EditProfileTwo = () => {
                 role="tabpanel"
                 aria-labelledby="nav-home-tab"
               >
-                <div class="nuron-information">
+                <div class="PolyBrix-information">
                   <div class="profile-form-wrapper">
                     <div class="input-two-wrapper mb--15">
                       <div class="first-name half-wid">
@@ -254,7 +254,7 @@ const EditProfileTwo = () => {
                 role="tabpanel"
                 aria-labelledby="nav-profile-tab"
               >
-                <div class="nuron-information">
+                <div class="PolyBrix-information">
                   <div class="condition">
                     <h5 class="title">Create Your Password</h5>
                     <p class="condition">
@@ -312,7 +312,7 @@ const EditProfileTwo = () => {
                 role="tabpanel"
                 aria-labelledby="nav-contact-tab"
               >
-                <div class="nuron-information">
+                <div class="PolyBrix-information">
                   <h5 class="title">Make Sure Your Notification setting </h5>
                   <p class="notice-disc">
                     Notification Center is where you can find app notifications

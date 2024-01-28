@@ -349,7 +349,7 @@ const CreateTwo = () => {
                     </div>
                   </div>
                   <div class="col-lg-12">
-                    <div class="nuron-information mb--30">
+                    <div class="PolyBrix-information mb--30">
                       <div class="single-notice-setting">
                         <div class="input">
                           <input

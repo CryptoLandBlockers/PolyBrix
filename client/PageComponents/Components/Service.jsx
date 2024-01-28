@@ -34,7 +34,7 @@ const Service = () => {
                     <a href="#">Set up your wallet</a>
                   </h4>
                   <p class="description">
-                    Powerful features and inclusions, which makes Nuron
+                    Powerful features and inclusions, which makes PolyBrix
                     standout, easily customizable and scalable.
                   </p>
                   <a class="read-more-button" href="#">
@@ -63,8 +63,7 @@ const Service = () => {
                     <a href="#">Create your collection</a>
                   </h4>
                   <p class="description">
-                    A great collection of beautiful website templates for your
-                    need. Choose the best suitable template.
+                    A great collection
                   </p>
                   <a class="read-more-button" href="#">
                     <i class="feather-arrow-right"></i>
