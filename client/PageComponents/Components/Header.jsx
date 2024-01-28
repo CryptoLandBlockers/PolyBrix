@@ -48,12 +48,12 @@ const Header = () => {
                             <i class="feather-fast-forward"></i>
                           </Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link href="/creator">
                             Creator
                             <i class="feather-fast-forward"></i>
                           </Link>
-                        </li>
+                        </li> */}
                         <li>
                           <Link class="live-expo" href="/explor">
                             Explore
